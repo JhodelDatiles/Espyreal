@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.expo/
+.expo-shared/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+android/
+ios/
